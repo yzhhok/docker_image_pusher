@@ -5,3 +5,4 @@ xiaoyaliu/alist
 --platform linux/arm64 kingwrcy/moments:latest
 --platform linux/arm64 xiaoyaliu/alist:latest
 --platform linux/arm64 jeessy/ddns-go
+haroldli/xiaoya-tvbox
