@@ -1,8 +1,12 @@
-nginx
+#adm64
 xhofe/alist:latest
-xiaoyaliu/alist
+xiaoyaliu/alist:latest
+haroldli/xiaoya-tvbox
+jeessy/ddns-go
+lanol/filecodebox:beta
+kingwrcy/moments:latest
+#arm64
 --platform linux/arm64 lanol/filecodebox:beta
 --platform linux/arm64 kingwrcy/moments:latest
 --platform linux/arm64 xiaoyaliu/alist:latest
 --platform linux/arm64 jeessy/ddns-go
-haroldli/xiaoya-tvbox
