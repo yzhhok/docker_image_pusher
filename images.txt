@@ -1,4 +1,4 @@
-#adm64
+
 xhofe/alist:latest
 xiaoyaliu/alist:latest
 haroldli/xiaoya-tvbox
