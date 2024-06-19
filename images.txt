@@ -5,7 +5,7 @@ haroldli/xiaoya-tvbox
 jeessy/ddns-go
 lanol/filecodebox:beta
 kingwrcy/moments:latest
-#arm640
+#arm64
 --platform linux/arm64 lanol/filecodebox:beta
 --platform linux/arm64 kingwrcy/moments:latest
 --platform linux/arm64 xiaoyaliu/alist:latest
