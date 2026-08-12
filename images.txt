@@ -6,7 +6,7 @@
 --platform=linux/arm64 ghcr.io/daeuniverse/daed:latest
 --platform=linux/arm64 cloudreve/cloudreve:latest
 --platform=linux/arm64 cloudflare/cloudflared:latest
-
+--platform=linux/arm64 jamesits/dst-server:latest 
 
 
 
