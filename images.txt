@@ -1,4 +1,5 @@
 --platform=linux/arm64 ghcr.io/sagernet/sing-box:latest-testing
+--platform=linux/arm64 ghcr.io/sagernet/sing-box:latest
 --platform=linux/arm64 openlistteam/openlist:latest
 --platform=linux/arm64 vaultwarden/server:latest
 --platform=linux/arm64 ghcr.io/mhsanaei/3x-ui:latest
