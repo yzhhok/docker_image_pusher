@@ -8,6 +8,8 @@
 --platform=linux/arm64 cloudreve/cloudreve:latest
 --platform=linux/arm64 cloudflare/cloudflared:latest
 --platform=linux/arm64 jamesits/dst-server:latest 
+--platform=linux/arm64 matrixdotorg/synapse:latest
+--platform=linux/arm64 postgres:15-alpine
 
 
 
